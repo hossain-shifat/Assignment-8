@@ -1,2 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 @import "tailwindcss";
 @plugin "daisyui";
+
+*{
+    font-family: Inter;
+}
+
+.text-gradient{
+    @apply text-transparent bg-clip-text bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)]
+}
+
+.btn-gradient{
+    @apply btn rounded-[4px] bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] text-white
+}
+
+.active{
+    @apply border-b-2
+}
+
+.p{
+    @apply text-[1.22rem] text-[#627382]
+}

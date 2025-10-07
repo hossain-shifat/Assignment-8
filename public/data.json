@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co/0cP2gRZ/notion.png",
+    "title": "Notion",
+    "companyName": "Notion Labs, Inc.",
+    "id": 1,
+    "description": "A connected workspace where better, faster work happens. Write, plan, and get organized in one place.",
+    "size": 120,
+    "reviews": 850000,
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 620000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jW5Xg2x/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 2,
+    "description": "Stream millions of songs and podcasts for free. Listen to your favorite artists anywhere.",
+    "size": 85,
+    "reviews": 32000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 23700000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/sFcJjFw/canva.png",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 3,
+    "description": "Create stunning designs effortlessly. Use templates for social media, presentations, and more.",
+    "size": 95,
+    "reviews": 12000000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 10320000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/G50LgVn/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 4,
+    "description": "Watch, create, and share short videos with music and effects. Join a global creative community.",
+    "size": 140,
+    "reviews": 60000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 3200000 },
+      { "name": "3 star", "count": 4200000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 41100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/4PK5LxT/whatsapp.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5,
+    "description": "Fast, simple, and secure messaging and calling app used by billions around the world.",
+    "size": 75,
+    "reviews": 110000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 73000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/PD7PNcH/minecraft.png",
+    "title": "Minecraft",
+    "companyName": "Mojang Studios",
+    "id": 6,
+    "description": "Explore infinite worlds and build amazing things. Play in creative or survival mode alone or with friends.",
+    "size": 220,
+    "reviews": 2500000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 95000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 1770000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/5MmcG5Q/snapseed.png",
+    "title": "Snapseed",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Professional photo editing tool with powerful filters and fine-tune controls developed by Google.",
+    "size": 45,
+    "reviews": 2000000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 350000 },
+      { "name": "5 star", "count": 1350000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/HqGRVdG/duolingo.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 8,
+    "description": "Learn languages for free with fun lessons that build speaking, reading, listening, and writing skills.",
+    "size": 90,
+    "reviews": 10000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 7775000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/YdTz2RG/google-maps.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "Navigate the world faster with accurate maps, real-time traffic updates, and local business information.",
+    "size": 150,
+    "reviews": 16000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 850000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 9800000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/nPR5G9H/genshin-impact.png",
+    "title": "Genshin Impact",
+    "companyName": "miHoYo Limited",
+    "id": 10,
+    "description": "Open-world action RPG with stunning visuals, immersive story, and elemental combat system.",
+    "size": 4500,
+    "reviews": 9500000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 5400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/mJZZy1R/telegram.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 11,
+    "description": "Cloud-based messaging app with focus on speed, privacy, and large group communication.",
+    "size": 60,
+    "reviews": 15000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 9200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/6HYkXHd/asphalt9.png",
+    "title": "Asphalt 9: Legends",
+    "companyName": "Gameloft SE",
+    "id": 12,
+    "description": "Drive legendary cars across spectacular tracks in one of the most popular racing games.",
+    "size": 2500,
+    "reviews": 8000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 4100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/zx4Hp7h/pinterest.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 13,
+    "description": "Discover and save creative ideas, from recipes to home decor and fashion inspiration.",
+    "size": 70,
+    "reviews": 10000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 7100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/58D1tV3/vscode.png",
+    "title": "Visual Studio Code",
+    "companyName": "Microsoft Corporation",
+    "id": 14,
+    "description": "Lightweight yet powerful source code editor with built-in support for multiple languages.",
+    "size": 250,
+    "reviews": 500000,
+    "ratingAvg": 4.8,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 370000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Vt7hrM2/capcut.png",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 15,
+    "description": "All-in-one video editor with filters, transitions, AI effects, and professional editing tools.",
+    "size": 200,
+    "reviews": 25000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 17400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Nmn8rN1/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 16,
+    "description": "Video conferencing and online meeting platform with HD video and collaboration features.",
+    "size": 110,
+    "reviews": 18000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 3800000 },
+      { "name": "5 star", "count": 10300000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/fYGnvbS/adobe-lightroom.png",
+    "title": "Adobe Lightroom",
+    "companyName": "Adobe Inc.",
+    "id": 17,
+    "description": "Photo editing and organization app with advanced color correction, filters, and presets.",
+    "size": 250,
+    "reviews": 9000000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 5700000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Xs9wz3S/twitter.png",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 18,
+    "description": "Join global conversations and share what’s happening in real time through short posts and media.",
+    "size": 80,
+    "reviews": 25000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 2100000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 5400000 },
+      { "name": "5 star", "count": 11700000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/WBVf1k6/evernote.png",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "id": 19,
+    "description": "Organize notes, tasks, and ideas in one powerful productivity tool synced across devices.",
+    "size": 130,
+    "reviews": 5000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/QrZsK6L/pubg.png",
+    "title": "PUBG Mobile",
+    "companyName": "Tencent Games",
+    "id": 20,
+    "description": "Battle royale game with realistic graphics, intense gameplay, and online multiplayer modes.",
+    "size": 3800,
+    "reviews": 75000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 4500000 },
+      { "name": "4 star", "count": 11000000 },
+      { "name": "5 star", "count": 54000000 }
+    ]
+  }
+]
