@@ -10,7 +10,7 @@ const Footer = () => {
                 <img className="w-[30px] h-[30px]" src={assets.logo} alt="" />
                 <h1 className="text-gradient">HERO.IO</h1>
             </div>
-            <div className="grid gap-2">
+            <div className="space-y-2">
                 <h1>Social</h1>
                 <div className="flex gap-2">
                     <Twitter/>
