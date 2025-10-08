@@ -4,9 +4,19 @@
     "title": "Notion",
     "companyName": "Notion Labs, Inc.",
     "id": 1,
-    "description": "Notion is a versatile workspace for notes, tasks, databases, and calendars. Organize your projects efficiently. Collaborate with your team seamlessly. Customize workflows to fit your style. Keep everything connected in one place. Boost productivity effortlessly.",
+    "description": [
+      {
+        "des1": "Notion is a versatile workspace for notes, tasks, databases, and calendars. Organize your projects efficiently with customizable workflows. Collaborate with your team seamlessly in real-time. Keep everything connected in one centralized place. Boost productivity effortlessly with integrated tools."
+      },
+      {
+        "des2": "Use templates to get started quickly or create pages from scratch. Track tasks with Kanban boards, tables, or lists for visual organization. Schedule meetings and events with the built-in calendar functionality. Integrate with other popular apps like Google Drive and Slack. Share documents with teammates securely with permission controls."
+      },
+      {
+        "des3": "Access your workspace from desktop, web, or mobile devices seamlessly. Add rich media including images, videos, and links to enhance content. Maintain version history to recover previous changes and edits. Create knowledge bases for easy reference and documentation. Make your workspace as simple or complex as your needs require."
+      }
+    ],
     "size": 120,
-    "reviews": 850000,
+    "reviews": "85K",
     "ratingAvg": 4.7,
     "downloads": "8.4M",
     "ratings": [
@@ -22,9 +32,19 @@
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 2,
-    "description": "Spotify offers millions of songs and podcasts for free. Create playlists and follow favorite artists. Explore new music every day. Enjoy offline listening and personalized recommendations. Discover curated content for every mood. Listen anywhere, anytime.",
+    "description": [
+      {
+        "des1": "Spotify offers millions of songs and podcasts for free streaming. Create personalized playlists and follow your favorite artists. Explore new music every day with curated recommendations. Enjoy offline listening for music on the go. Discover content tailored to every mood and occasion."
+      },
+      {
+        "des2": "Access a vast library spanning all genres and decades of music. Receive daily mixes based on your listening habits and preferences. Share playlists and music discoveries with friends easily. Use voice commands for hands-free control of your music. Experience high-quality audio streaming across all devices."
+      },
+      {
+        "des3": "Listen anywhere, anytime with seamless cross-device synchronization. Discover podcasts on countless topics from expert creators. Create collaborative playlists with friends and family members. Get concert alerts and updates about your favorite artists. Enjoy an immersive audio experience with personalized curation."
+      }
+    ],
     "size": 85,
-    "reviews": 32000000,
+    "reviews": "32K",
     "ratingAvg": 4.5,
     "downloads": "8M",
     "ratings": [
@@ -40,9 +60,19 @@
     "title": "Canva",
     "companyName": "Canva",
     "id": 3,
-    "description": "Canva makes designing easy and fun. Create graphics, presentations, social media posts, and more. Use templates or start from scratch. Customize fonts, colors, and images effortlessly. Collaborate with team members. Bring your creative ideas to life.",
+    "description": [
+      {
+        "des1": "Canva makes designing easy and fun for everyone. Create stunning graphics, presentations, and social media posts. Use professionally designed templates or start from scratch. Customize fonts, colors, and images effortlessly. Collaborate with team members in real-time."
+      },
+      {
+        "des2": "Access thousands of templates for various design needs. Drag and drop elements for intuitive design creation. Upload your own images and brand assets easily. Use the magic resize tool for different platform formats. Organize designs into folders for better management."
+      },
+      {
+        "des3": "Bring your creative ideas to life with user-friendly tools. Access a vast library of stock photos and elements. Export designs in multiple formats and resolutions. Share designs directly to social media platforms. Work on designs across desktop and mobile devices."
+      }
+    ],
     "size": 95,
-    "reviews": 12000000,
+    "reviews": "120K",
     "ratingAvg": 4.8,
     "downloads": "5.6M",
     "ratings": [
@@ -58,9 +88,19 @@
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 4,
-    "description": "TikTok lets you create and watch short videos with music and effects. Explore trends and challenges. Join a global community of creators. Share your creativity with others. Personalize your feed to match your interests. Have fun and entertain yourself anytime.",
+    "description": [
+      {
+        "des1": "TikTok lets you create and watch short videos with music and effects. Explore the latest trends and viral challenges. Join a global community of creative content creators. Share your unique creativity with millions of users. Personalize your feed to match your specific interests."
+      },
+      {
+        "des2": "Use extensive music library and sound effects for videos. Apply filters and editing tools to enhance your content. Discover content across countless categories and niches. Engage with creators through comments and duets. Follow your favorite accounts for regular updates."
+      },
+      {
+        "des3": "Have fun and entertain yourself anytime with endless content. Create videos with easy-to-use recording and editing features. Participate in community challenges and hashtag trends. Build your own following and creator community. Experience algorithm-driven personalized content discovery."
+      }
+    ],
     "size": 140,
-    "reviews": 60000000,
+    "reviews": "60K",
     "ratingAvg": 4.4,
     "downloads": "5.9M",
     "ratings": [
@@ -76,9 +116,19 @@
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
     "id": 5,
-    "description": "WhatsApp is a secure messaging and calling app used worldwide. Send messages, photos, videos, and voice messages. Make group calls and stay connected globally. End-to-end encryption ensures privacy. Customize notifications and status updates. Communication made simple and reliable.",
+    "description": [
+      {
+        "des1": "WhatsApp is a secure messaging and calling app used worldwide. Send messages, photos, videos, and voice messages instantly. Make group calls and stay connected with people globally. End-to-end encryption ensures complete privacy protection. Customize notifications and status updates as needed."
+      },
+      {
+        "des2": "Create group chats for family, friends, or work teams. Share documents and files of various types easily. Use WhatsApp Web for desktop computer messaging. Backup chats to cloud services for data safety. Make voice and video calls with crystal clear quality."
+      },
+      {
+        "des3": "Communication made simple and reliable across platforms. Use status updates to share moments with contacts. Enjoy ad-free messaging experience consistently. Access features across multiple devices simultaneously. Experience fast and reliable message delivery worldwide."
+      }
+    ],
     "size": 75,
-    "reviews": 110000000,
+    "reviews": "110K",
     "ratingAvg": 4.3,
     "downloads": "8.6M",
     "ratings": [
@@ -94,9 +144,19 @@
     "title": "Minecraft",
     "companyName": "Mojang Studios",
     "id": 6,
-    "description": "Minecraft lets you explore infinite worlds and build amazing creations. Play in creative or survival mode alone or with friends. Craft items, explore landscapes, and fight mobs. Join multiplayer servers for fun challenges. Customize your world with mods. Unleash your imagination endlessly.",
+    "description": [
+      {
+        "des1": "Minecraft lets you explore infinite worlds and build amazing creations. Play in creative or survival mode alone or with friends. Craft items, explore diverse landscapes, and fight mobs. Join multiplayer servers for fun challenges and adventures. Customize your world with mods and texture packs."
+      },
+      {
+        "des2": "Experience block-based sandbox gameplay with endless possibilities. Gather resources to build structures and craft tools. Survive against creatures in challenging survival mode. Discover hidden treasures and generated structures. Create complex mechanisms with redstone engineering."
+      },
+      {
+        "des3": "Unleash your imagination endlessly in this virtual playground. Share your creations with the global community. Participate in mini-games on multiplayer servers. Update regularly with new content and features. Enjoy cross-platform play across different devices."
+      }
+    ],
     "size": 220,
-    "reviews": 2500000,
+    "reviews": "25K",
     "ratingAvg": 4.6,
     "downloads": "8.5M",
     "ratings": [
@@ -112,9 +172,19 @@
     "title": "Snapseed",
     "companyName": "Google LLC",
     "id": 7,
-    "description": "Snapseed is a professional photo editor with powerful filters. Adjust brightness, contrast, and color easily. Fine-tune details for perfect results. Apply creative effects for unique photos. Share your edits on social media. A complete photo editing experience on mobile.",
+    "description": [
+      {
+        "des1": "Snapseed is a professional photo editor with powerful filters. Adjust brightness, contrast, and color easily with precision tools. Fine-tune details for perfect editing results. Apply creative effects for unique and artistic photos. Share your edited creations directly on social media."
+      },
+      {
+        "des2": "Use selective adjustment tools for localized edits. Access healing tools to remove unwanted objects. Apply vintage and grunge filters for artistic effects. Use perspective correction for architectural photos. Save custom looks for consistent editing style."
+      },
+      {
+        "des3": "A complete photo editing experience on mobile devices. Work with RAW files for professional photography. Use brush tools for detailed manual adjustments. Compare before and after results instantly. Enjoy non-destructive editing with unlimited undo."
+      }
+    ],
     "size": 45,
-    "reviews": 2000000,
+    "reviews": "20K",
     "ratingAvg": 4.6,
     "downloads": "5.1M",
     "ratings": [
@@ -130,9 +200,19 @@
     "title": "Duolingo",
     "companyName": "Duolingo, Inc.",
     "id": 8,
-    "description": "Duolingo helps you learn languages for free with fun lessons. Improve speaking, reading, listening, and writing skills. Track your progress and earn rewards. Use interactive exercises to strengthen knowledge. Learn at your own pace. Make language learning engaging and enjoyable.",
+    "description": [
+      {
+        "des1": "Duolingo helps you learn languages for free with fun lessons. Improve speaking, reading, listening, and writing skills comprehensively. Track your progress and earn rewards for consistency. Use interactive exercises to strengthen language knowledge. Learn at your own comfortable pace."
+      },
+      {
+        "des2": "Choose from dozens of languages available for learning. Practice with bite-sized lessons perfect for daily use. Use speaking exercises to improve pronunciation. Test your level with placement assessments. Compete with friends in weekly leaderboards."
+      },
+      {
+        "des3": "Make language learning engaging and enjoyable through gamification. Set daily goals to maintain learning streaks. Access stories for reading and listening practice. Use offline mode for learning without internet. Join the global community of language learners."
+      }
+    ],
     "size": 90,
-    "reviews": 10000000,
+    "reviews": "100K",
     "ratingAvg": 4.7,
     "downloads": "2.2M",
     "ratings": [
@@ -148,9 +228,19 @@
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 9,
-    "description": "Google Maps helps you navigate the world with accurate maps. Get real-time traffic updates and directions. Explore local businesses and places of interest. Save favorite locations for easy access. Discover new areas confidently. Travel smarter and faster wherever you go.",
+    "description": [
+      {
+        "des1": "Google Maps helps you navigate the world with accurate maps. Get real-time traffic updates and turn-by-turn directions. Explore local businesses and places of interest nearby. Save favorite locations for quick and easy access. Discover new areas confidently with detailed information."
+      },
+      {
+        "des2": "Use indoor maps for airports and shopping malls. See estimated arrival times based on current traffic. Find the best routes for driving, walking, or transit. Explore street view for virtual location previews. Book reservations and see business hours directly."
+      },
+      {
+        "des3": "Travel smarter and faster wherever you need to go. Share your location and ETA with contacts. Download maps for offline use without internet. See crowdedness information for popular places. Get personalized recommendations based on your history."
+      }
+    ],
     "size": 150,
-    "reviews": 16000000,
+    "reviews": "160K",
     "ratingAvg": 4.4,
     "downloads": "9.3M",
     "ratings": [
@@ -166,9 +256,19 @@
     "title": "Genshin Impact",
     "companyName": "miHoYo Limited",
     "id": 10,
-    "description": "Genshin Impact is an open-world action RPG with stunning visuals. Explore a fantasy world with elemental combat. Complete quests and unlock new characters. Play solo or join co-op adventures. Discover secrets and treasures across regions. Immerse yourself in a captivating story.",
+    "description": [
+      {
+        "des1": "Genshin Impact is an open-world action RPG with stunning visuals. Explore a fantasy world with dynamic elemental combat system. Complete quests and unlock new characters with unique abilities. Play solo or join co-op adventures with friends. Discover secrets and treasures across diverse regions."
+      },
+      {
+        "des2": "Experience gacha system for character and weapon collection. Use elemental reactions for strategic combat advantages. Explore vertically designed open world with climbing. Solve environmental puzzles throughout the world. Participate in seasonal events and limited-time activities."
+      },
+      {
+        "des3": "Immerse yourself in a captivating story with rich lore. Build your party with complementary character elements. Upgrade characters and weapons through progression systems. Enjoy regular updates with new regions and content. Experience cross-save functionality across platforms."
+      }
+    ],
     "size": 4500,
-    "reviews": 9500000,
+    "reviews": "95K",
     "ratingAvg": 4.5,
     "downloads": "5.4M",
     "ratings": [
@@ -184,9 +284,19 @@
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 11,
-    "description": "Telegram is a cloud-based messaging app focused on speed and privacy. Send messages, media, and files securely. Join large groups and channels. Use bots for automation and tools. Enjoy seamless synchronization across devices. Stay connected efficiently and safely.",
+    "description": [
+      {
+        "des1": "Telegram is a cloud-based messaging app focused on speed and privacy. Send messages, media, and files of any type securely. Join large groups and channels with thousands of members. Use bots for automation and various useful tools. Enjoy seamless synchronization across all your devices."
+      },
+      {
+        "des2": "Create channels for broadcasting to unlimited audiences. Use secret chats with self-destructing messages. Send large files up to 2GB in size. Customize chats with themes and background images. Use multiple accounts on the same device."
+      },
+      {
+        "des3": "Stay connected efficiently and safely with advanced features. Access message history from any device anytime. Use powerful search to find messages quickly. Create folders to organize chats and channels. Experience fast delivery even on slow connections."
+      }
+    ],
     "size": 60,
-    "reviews": 15000000,
+    "reviews": "150K",
     "ratingAvg": 4.4,
     "downloads": "5.1M",
     "ratings": [
@@ -202,9 +312,19 @@
     "title": "Asphalt 9: Legends",
     "companyName": "Gameloft SE",
     "id": 12,
-    "description": "Asphalt 9: Legends lets you drive legendary cars on stunning tracks. Race against opponents worldwide. Perform stunts and unlock new cars. Customize vehicles and improve performance. Enjoy realistic graphics and exciting gameplay. Compete and climb the leaderboard.",
+    "description": [
+      {
+        "des1": "Asphalt 9: Legends lets you drive legendary cars on stunning tracks. Race against opponents worldwide in real-time multiplayer. Perform spectacular stunts and unlock new high-performance cars. Customize vehicles and improve their performance statistics. Enjoy realistic graphics and exciting arcade gameplay."
+      },
+      {
+        "des2": "Choose from over 50 prestigious car brands available. Experience nitro effects for speed boosts and tricks. Master touch drive for simplified control scheme. Complete career mode with hundreds of events. Join clubs for social racing and rewards."
+      },
+      {
+        "des3": "Compete and climb the leaderboard in competitive seasons. Use blueprints to unlock and upgrade your car collection. Experience different race modes and challenges. Enjoy HDR graphics and detailed car models. Participate in special limited-time events regularly."
+      }
+    ],
     "size": 2500,
-    "reviews": 8000000,
+    "reviews": "80K",
     "ratingAvg": 4.3,
     "downloads": "6.2M",
     "ratings": [
@@ -220,9 +340,19 @@
     "title": "Pinterest",
     "companyName": "Pinterest, Inc.",
     "id": 13,
-    "description": "Pinterest helps you discover and save creative ideas. Find inspiration for home, fashion, and recipes. Organize boards and collections. Explore trending topics and tutorials. Share ideas with friends. Let your creativity flourish daily.",
+    "description": [
+      {
+        "des1": "Pinterest helps you discover and save creative ideas visually. Find inspiration for home decor, fashion, and recipes. Organize boards and collections for different projects. Explore trending topics and step-by-step tutorials. Share ideas and discoveries with friends and followers."
+      },
+      {
+        "des2": "Use visual search to find similar items in images. Create secret boards for private collections. Shop directly from product pins and recommendations. Use lens feature to search with your camera. Get personalized recommendations based on your interests."
+      },
+      {
+        "des3": "Let your creativity flourish daily with endless inspiration. Save ideas from across the web with the browser button. Follow boards and users with similar tastes. Use filters to refine your search results. Plan projects and events with organized pin collections."
+      }
+    ],
     "size": 70,
-    "reviews": 10000000,
+    "reviews": "100K",
     "ratingAvg": 4.6,
     "downloads": "8.3M",
     "ratings": [
@@ -238,9 +368,19 @@
     "title": "Visual Studio Code",
     "companyName": "Microsoft Corporation",
     "id": 14,
-    "description": "VS Code is a lightweight, powerful code editor. Supports multiple languages and frameworks. Customize with extensions and themes. Debug efficiently and navigate code easily. Integrated Git tools streamline version control. Boost coding productivity effortlessly.",
+    "description": [
+      {
+        "des1": "VS Code is a lightweight yet powerful code editor. Supports multiple programming languages and frameworks extensively. Customize with extensions and themes from marketplace. Debug efficiently with integrated debugging tools. Navigate code easily with intelligent features."
+      },
+      {
+        "des2": "Use integrated Git tools for version control management. Enjoy IntelliSense for smart code completions. Work with terminal integrated within the editor. Use split editor for working on multiple files. Customize keyboard shortcuts for efficient workflow."
+      },
+      {
+        "des3": "Boost coding productivity effortlessly with modern features. Access remote development capabilities. Use command palette for quick access to features. Enjoy built-in support for JavaScript and TypeScript. Experience fast performance even with large projects."
+      }
+    ],
     "size": 250,
-    "reviews": 500000,
+    "reviews": "50K",
     "ratingAvg": 4.8,
     "downloads": "7.5M",
     "ratings": [
@@ -256,9 +396,19 @@
     "title": "CapCut",
     "companyName": "Bytedance Pte. Ltd.",
     "id": 15,
-    "description": "CapCut is an all-in-one video editor. Add filters, transitions, and AI effects easily. Trim and merge clips for polished results. Enhance videos with music and text overlays. Export high-quality videos effortlessly. Create professional-looking content from your phone.",
+    "description": [
+      {
+        "des1": "CapCut is an all-in-one video editor for mobile devices. Add filters, transitions, and AI effects easily. Trim and merge video clips for polished results. Enhance videos with background music and text overlays. Export high-quality videos effortlessly to various platforms."
+      },
+      {
+        "des2": "Use keyframe animation for precise control over effects. Apply beauty effects and filters for enhancement. Use auto-captions powered by speech recognition. Access extensive library of trending music and sounds. Use template for quick video creation."
+      },
+      {
+        "des3": "Create professional-looking content directly from your phone. Adjust video speed for slow motion or fast forward. Use chroma key for green screen effects. Share edited videos directly to social media. Work with multiple video and audio tracks."
+      }
+    ],
     "size": 200,
-    "reviews": 25000000,
+    "reviews": "25K",
     "ratingAvg": 4.6,
     "downloads": "6M",
     "ratings": [
@@ -274,9 +424,19 @@
     "title": "Zoom",
     "companyName": "Zoom Video Communications, Inc.",
     "id": 16,
-    "description": "Zoom is a video conferencing platform with HD video. Schedule and host meetings with ease. Share screens and collaborate in real time. Record sessions for later reference. Customize virtual backgrounds and settings. Stay connected with teams globally.",
+    "description": [
+      {
+        "des1": "Zoom is a video conferencing platform with HD video quality. Schedule and host meetings with ease and reliability. Share screens and collaborate in real-time with participants. Record sessions for later reference and sharing. Customize virtual backgrounds and audio settings."
+      },
+      {
+        "des2": "Use breakout rooms for small group discussions. Annotate shared screens for collaborative work. Schedule recurring meetings with saved settings. Use waiting room for participant management. Integrate with calendar apps for easy scheduling."
+      },
+      {
+        "des3": "Stay connected with teams and clients globally. Use gallery view to see all participants simultaneously. Access meeting transcripts with automated captions. Use polling feature for engagement and feedback. Experience reliable performance with large meetings."
+      }
+    ],
     "size": 110,
-    "reviews": 18000000,
+    "reviews": "180K",
     "ratingAvg": 4.2,
     "downloads": "3M",
     "ratings": [
@@ -292,9 +452,19 @@
     "title": "Adobe Lightroom",
     "companyName": "Adobe Inc.",
     "id": 17,
-    "description": "Adobe Lightroom offers advanced photo editing and organization. Adjust colors, exposure, and contrast precisely. Apply filters and presets quickly. Organize images into albums efficiently. Share creations easily on social media. Take control of your photography workflow.",
+    "description": [
+      {
+        "des1": "Adobe Lightroom offers advanced photo editing and organization tools. Adjust colors, exposure, and contrast with precision controls. Apply filters and presets quickly for consistent styling. Organize images into albums and collections efficiently. Share edited creations easily on social media platforms."
+      },
+      {
+        "des2": "Use selective editing for localized adjustments. Sync edits across devices with cloud storage. Access healing brush for removing imperfections. Use color grading for cinematic looks. Create and save custom presets for workflow."
+      },
+      {
+        "des3": "Take control of your photography workflow completely. Work with RAW files for maximum editing flexibility. Use batch editing for multiple photos. Access tutorial content within the app. Experience professional-grade editing on mobile."
+      }
+    ],
     "size": 250,
-    "reviews": 9000000,
+    "reviews": "90K",
     "ratingAvg": 4.6,
     "downloads": "5M",
     "ratings": [
@@ -310,9 +480,19 @@
     "title": "X (Twitter)",
     "companyName": "X Corp.",
     "id": 18,
-    "description": "X lets you join global conversations in real time. Share updates, news, and media through short posts. Follow trending topics and hashtags. Engage with communities worldwide. Express yourself creatively with text, images, and videos. Stay informed and connected instantly.",
+    "description": [
+      {
+        "des1": "X lets you join global conversations in real time. Share updates, news, and media through short posts. Follow trending topics and hashtags for current events. Engage with communities and people worldwide. Express yourself creatively with text, images, and videos."
+      },
+      {
+        "des2": "Use threads for longer-form content sharing. Bookmark posts for later reading and reference. Create lists to organize accounts by topics. Use advanced search to find specific content. Participate in spaces for audio conversations."
+      },
+      {
+        "des3": "Stay informed and connected instantly with real-time updates. Customize your timeline with topic follows. Use polls to gather opinions from followers. Access analytics for your account performance. Experience algorithmic timeline for personalized content."
+      }
+    ],
     "size": 80,
-    "reviews": 25000000,
+    "reviews": "250K",
     "ratingAvg": 4.1,
     "downloads": "7M",
     "ratings": [
@@ -328,9 +508,19 @@
     "title": "Evernote",
     "companyName": "Evernote Corporation",
     "id": 19,
-    "description": "Evernote organizes notes, tasks, and ideas in one place. Sync across devices seamlessly. Capture ideas, images, and web pages quickly. Collaborate and share notebooks with others. Use tags and search for easy access. Boost personal and team productivity efficiently.",
+    "description": [
+      {
+        "des1": "Evernote organizes notes, tasks, and ideas in one place. Sync across all your devices seamlessly and reliably. Capture ideas, images, and web pages quickly. Collaborate and share notebooks with team members. Use tags and powerful search for easy access."
+      },
+      {
+        "des2": "Create different note types for various purposes. Use web clipper to save online content. Set reminders for important notes and tasks. Use templates for consistent note formatting. Organize notes into notebooks and stacks."
+      },
+      {
+        "des3": "Boost personal and team productivity efficiently. Use document scanning for physical documents. Access note history for previous versions. Use offline access for working without internet. Integrate with other apps and services."
+      }
+    ],
     "size": 130,
-    "reviews": 5000000,
+    "reviews": "50K",
     "ratingAvg": 4.3,
     "downloads": "8M",
     "ratings": [
@@ -346,9 +536,19 @@
     "title": "PUBG Mobile",
     "companyName": "Tencent Games",
     "id": 20,
-    "description": "PUBG Mobile is a battle royale game with realistic graphics. Engage in intense multiplayer matches. Explore maps and use strategy to survive. Customize weapons and characters. Team up with friends or play solo. Experience thrilling action and competitive gameplay.",
+    "description": [
+      {
+        "des1": "PUBG Mobile is a battle royale game with realistic graphics. Engage in intense multiplayer matches with 100 players. Explore large maps and use strategy to survive. Customize weapons and characters with various skins. Team up with friends or play solo in matches."
+      },
+      {
+        "des2": "Choose from different maps with unique environments. Use vehicles for fast travel across the map. Loot equipment and supplies from buildings. Use sound cues to locate nearby enemies. Experience different game modes and events."
+      },
+      {
+        "des3": "Experience thrilling action and competitive gameplay. Climb ranks in competitive season mode. Customize controls for personal preference. Participate in esports tournaments and events. Enjoy regular updates with new content."
+      }
+    ],
     "size": 3800,
-    "reviews": 75000000,
+    "reviews": "80K",
     "ratingAvg": 4.5,
     "downloads": "9.9M",
     "ratings": [

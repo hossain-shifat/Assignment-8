@@ -8,12 +8,13 @@
     @apply text-transparent bg-clip-text bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)]
 }
 
+
 .btn-gradient{
     @apply btn rounded-[4px] bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] text-white
 }
 
 .active{
-    @apply border-b-2 
+    @apply border-b-2
 }
 
 .p{
