@@ -2,11 +2,16 @@ import React from 'react'
 import { useLoaderData, useParams } from 'react-router-dom'
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip, Legend, CartesianGrid } from 'recharts';
 import { assets } from '../../assets/assets';
+import { addToLocal } from '../../utility/utility';
 
 const AppDetails = () => {
     const {id} = useParams()
     const appData = useLoaderData()
     const app = appData.find(appId => appId.id === parseInt(id))
+
+    const hanldeLocalStorage = (id) =>{
+        addToLocal(id)
+    }
 
   return (
     <div>
@@ -37,7 +42,7 @@ const AppDetails = () => {
                     </div>
                 </div>
                 <div className="flex justify-center md:justify-start items-center my-5 mt-10">
-                    <button className="btn btn-prymary border-none outline-none bg-[#00D390] text-white font-bold text-md">Install Now ({app.size} MB)</button>
+                    <button onClick={()=>hanldeLocalStorage(id)} className="btn btn-prymary border-none outline-none bg-[#00D390] text-white font-bold text-md">Install Now ({app.size} MB)</button>
                 </div>
             </div>
         </div>
