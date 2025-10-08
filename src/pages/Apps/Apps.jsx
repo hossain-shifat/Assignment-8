@@ -1,11 +1,21 @@
 import React, { useState } from 'react'
-import { useLoaderData } from 'react-router-dom'
+import { Link, useLoaderData } from 'react-router-dom'
 import App from '../App/App'
-import { Search } from 'lucide-react'
+import { assets } from '../../assets/assets'
+import AppError from '../AppError/AppError'
+
 
 const Apps = () => {
     const appsData = useLoaderData()
+    const [search,setSearch] = useState('')
 
+    // get search info
+    const handleSearch = (e) => {
+        setSearch(e.target.value)
+    }
+
+    // search functionality
+    const searchedApp = appsData.filter(app => app.title.toLowerCase().includes(search.toLowerCase()))
 
   return (
     <div className="my-10">
@@ -22,16 +32,27 @@ const Apps = () => {
                         <path d="m21 21-4.3-4.3"></path>
                         </g>
                     </svg>
-                    <input type="search"placeholder="Search" />
+                    <input type="search" onChange={handleSearch} defaultValue={search} placeholder="Search" />
                 </label>
             </div>
-            <h1 className="font-bold text-xl md:text-2xl pl-4 md:pl-0">({appsData.length}) Apps Found</h1>
+            <h1 className="font-bold text-xl md:text-2xl pl-4 md:pl-0">({searchedApp.length}) Apps Found</h1>
         </div>
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-[1200px] mx-auto mt-2">
-            {
-                appsData.map(appData=><App key={appData.id} appData={appData}/>)
-            }
-        </div>
+        {
+            searchedApp.length > 0 ? (
+                <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 max-w-[1200px] mx-auto mt-2">
+                    {
+                        searchedApp.map(appData => <App key={appData.id} appData={appData}/>)
+                    }
+                </div>
+            ) : (
+                <div className="col-span-full">
+                    <AppError setSearch={setSearch}/>
+                    <div className="flex justify-center items-center">
+                        <button onClick={()=>setSearch('')} className="btn-gradient">Go Back!</button>
+                    </div>
+                </div>
+            )
+        }
     </div>
   )
 }
