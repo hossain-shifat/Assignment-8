@@ -1,7 +1,8 @@
 import { Download, Star } from 'lucide-react'
 import React from 'react'
+import { removeFromLocal } from '../../utility/utility'
 
-const InstalledApps = ({app}) => {
+const InstalledApps = ({app,handleUninstall}) => {
   return (
     <div className="flex gap-4 justify-between border border-gray-100 shadow-sm mx-2 p-4 rounded-xl">
         <div className="flex gap-3  ">
@@ -18,7 +19,7 @@ const InstalledApps = ({app}) => {
             </div>
         </div>
         <div className="flex justify-center items-center">
-            <button className="btn btn-primary border-none outline-none font-bold shadow-none text-white bg-[#00D390]">Uninstall</button>
+            <button onClick={()=>handleUninstall(app.id)} className="btn btn-primary border-none outline-none font-bold shadow-none text-white bg-[#00D390]">Uninstall</button>
         </div>
     </div>
   )

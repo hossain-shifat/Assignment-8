@@ -3,6 +3,7 @@ import { useLoaderData, useParams } from 'react-router-dom'
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip, Legend, CartesianGrid } from 'recharts';
 import { assets } from '../../assets/assets';
 import { addToLocal } from '../../utility/utility';
+import Swal from 'sweetalert2'
 
 const AppDetails = () => {
     const {id} = useParams()
@@ -10,7 +11,22 @@ const AppDetails = () => {
     const app = appData.find(appId => appId.id === parseInt(id))
 
     const hanldeLocalStorage = (id) =>{
-        addToLocal(id)
+        const localApp = addToLocal(id)
+        if (localApp) {
+            Swal.fire({
+                title: 'Congratulations 🎉',
+                text: 'App Installed Successfully',
+                icon: 'success',
+                confirmButtonText: "OK"
+        })
+        }else{
+            Swal.fire({
+                title: 'Congratulations 🎉',
+                text: "App is already Installed",
+                icon: 'error',
+                confirmButtonText: "OK"
+        })
+        }
     }
 
   return (

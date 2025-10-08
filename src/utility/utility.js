@@ -1,8 +1,10 @@
+import Swal from 'sweetalert2/dist/sweetalert2.js'
+
 const storedApp = () =>{
 
     const storedAppStr = localStorage.getItem("appList")
     if (storedAppStr) {
-        const storedAppData = JSON.parse(storedAppStr)
+        const storedAppData = JSON.parse(storedAppStr).map(id => Number(id))
         return storedAppData;
     }
     else {
@@ -15,14 +17,24 @@ const addToLocal = (id) =>{
 
     const storedAppData = storedApp()
 
-    if (storedAppData.includes(id)) {
-        alert("id already exist")
+    if (storedAppData.includes(Number(id))) {
+        return false; 
     }
-    else{
-        storedAppData.push(id)
-        const data = JSON.stringify(storedAppData)
-        localStorage.setItem("appList",data)
-    }
+
+    storedAppData.push(Number(id));
+    localStorage.setItem("appList", JSON.stringify(storedAppData));
+    return true;
 }
 
-export { addToLocal, storedApp }
+const removeFromLocal = (id) => {
+    const getLocalData = storedApp()
+
+    const removeApp = getLocalData.filter(appId => appId !== id)
+
+    localStorage.setItem("appList", JSON.stringify(removeApp));
+}
+
+
+
+
+export { addToLocal, storedApp, removeFromLocal }
