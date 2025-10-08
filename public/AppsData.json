@@ -1,14 +1,14 @@
 [
   {
-    "image": "https://i.ibb.co/0cP2gRZ/notion.png",
+    "image": "https://i.ibb.co/svtMdFYd/notion.jpg",
     "title": "Notion",
     "companyName": "Notion Labs, Inc.",
     "id": 1,
-    "description": "A connected workspace where better, faster work happens. Write, plan, and get organized in one place.",
+    "description": "Notion is a versatile workspace for notes, tasks, databases, and calendars. Organize your projects efficiently. Collaborate with your team seamlessly. Customize workflows to fit your style. Keep everything connected in one place. Boost productivity effortlessly.",
     "size": 120,
     "reviews": 850000,
     "ratingAvg": 4.7,
-    "downloads": 50000000,
+    "downloads": "8.4M",
     "ratings": [
       { "name": "1 star", "count": 25000 },
       { "name": "2 star", "count": 35000 },
@@ -18,15 +18,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/jW5Xg2x/spotify.png",
+    "image": "https://i.ibb.co/Dfz3sFz5/Screenshot-20251008-094252.jpg",
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 2,
-    "description": "Stream millions of songs and podcasts for free. Listen to your favorite artists anywhere.",
+    "description": "Spotify offers millions of songs and podcasts for free. Create playlists and follow favorite artists. Explore new music every day. Enjoy offline listening and personalized recommendations. Discover curated content for every mood. Listen anywhere, anytime.",
     "size": 85,
     "reviews": 32000000,
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": "8M",
     "ratings": [
       { "name": "1 star", "count": 800000 },
       { "name": "2 star", "count": 1000000 },
@@ -36,15 +36,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/sFcJjFw/canva.png",
+    "image": "https://i.ibb.co/dJzTfr73/canva.jpg",
     "title": "Canva",
     "companyName": "Canva",
     "id": 3,
-    "description": "Create stunning designs effortlessly. Use templates for social media, presentations, and more.",
+    "description": "Canva makes designing easy and fun. Create graphics, presentations, social media posts, and more. Use templates or start from scratch. Customize fonts, colors, and images effortlessly. Collaborate with team members. Bring your creative ideas to life.",
     "size": 95,
     "reviews": 12000000,
     "ratingAvg": 4.8,
-    "downloads": 500000000,
+    "downloads": "5.6M",
     "ratings": [
       { "name": "1 star", "count": 120000 },
       { "name": "2 star", "count": 180000 },
@@ -54,15 +54,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/G50LgVn/tiktok.png",
+    "image": "https://i.ibb.co/XxBftXJk/tiktok.jpg",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 4,
-    "description": "Watch, create, and share short videos with music and effects. Join a global creative community.",
+    "description": "TikTok lets you create and watch short videos with music and effects. Explore trends and challenges. Join a global community of creators. Share your creativity with others. Personalize your feed to match your interests. Have fun and entertain yourself anytime.",
     "size": 140,
     "reviews": 60000000,
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": "5.9M",
     "ratings": [
       { "name": "1 star", "count": 2500000 },
       { "name": "2 star", "count": 3200000 },
@@ -72,15 +72,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/4PK5LxT/whatsapp.png",
+    "image": "https://i.ibb.co/dw0DqsvN/whatsapp.jpg",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
     "id": 5,
-    "description": "Fast, simple, and secure messaging and calling app used by billions around the world.",
+    "description": "WhatsApp is a secure messaging and calling app used worldwide. Send messages, photos, videos, and voice messages. Make group calls and stay connected globally. End-to-end encryption ensures privacy. Customize notifications and status updates. Communication made simple and reliable.",
     "size": 75,
     "reviews": 110000000,
     "ratingAvg": 4.3,
-    "downloads": 5000000000,
+    "downloads": "8.6M",
     "ratings": [
       { "name": "1 star", "count": 3000000 },
       { "name": "2 star", "count": 5000000 },
@@ -90,15 +90,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/PD7PNcH/minecraft.png",
+    "image": "https://i.ibb.co/vvkTSjvm/minecraft.jpg",
     "title": "Minecraft",
     "companyName": "Mojang Studios",
     "id": 6,
-    "description": "Explore infinite worlds and build amazing things. Play in creative or survival mode alone or with friends.",
+    "description": "Minecraft lets you explore infinite worlds and build amazing creations. Play in creative or survival mode alone or with friends. Craft items, explore landscapes, and fight mobs. Join multiplayer servers for fun challenges. Customize your world with mods. Unleash your imagination endlessly.",
     "size": 220,
     "reviews": 2500000,
     "ratingAvg": 4.6,
-    "downloads": 100000000,
+    "downloads": "8.5M",
     "ratings": [
       { "name": "1 star", "count": 80000 },
       { "name": "2 star", "count": 95000 },
@@ -108,15 +108,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/5MmcG5Q/snapseed.png",
+    "image": "https://i.ibb.co/N6J1NH2v/snapseed.jpg",
     "title": "Snapseed",
     "companyName": "Google LLC",
     "id": 7,
-    "description": "Professional photo editing tool with powerful filters and fine-tune controls developed by Google.",
+    "description": "Snapseed is a professional photo editor with powerful filters. Adjust brightness, contrast, and color easily. Fine-tune details for perfect results. Apply creative effects for unique photos. Share your edits on social media. A complete photo editing experience on mobile.",
     "size": 45,
     "reviews": 2000000,
     "ratingAvg": 4.6,
-    "downloads": 100000000,
+    "downloads": "5.1M",
     "ratings": [
       { "name": "1 star", "count": 70000 },
       { "name": "2 star", "count": 80000 },
@@ -126,15 +126,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/HqGRVdG/duolingo.png",
+    "image": "https://i.ibb.co/JRJ6RmWx/dulingo.jpg",
     "title": "Duolingo",
     "companyName": "Duolingo, Inc.",
     "id": 8,
-    "description": "Learn languages for free with fun lessons that build speaking, reading, listening, and writing skills.",
+    "description": "Duolingo helps you learn languages for free with fun lessons. Improve speaking, reading, listening, and writing skills. Track your progress and earn rewards. Use interactive exercises to strengthen knowledge. Learn at your own pace. Make language learning engaging and enjoyable.",
     "size": 90,
     "reviews": 10000000,
     "ratingAvg": 4.7,
-    "downloads": 500000000,
+    "downloads": "2.2M",
     "ratings": [
       { "name": "1 star", "count": 150000 },
       { "name": "2 star", "count": 250000 },
@@ -144,15 +144,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/YdTz2RG/google-maps.png",
+    "image": "https://i.ibb.co/8LhLjttW/map.jpg",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 9,
-    "description": "Navigate the world faster with accurate maps, real-time traffic updates, and local business information.",
+    "description": "Google Maps helps you navigate the world with accurate maps. Get real-time traffic updates and directions. Explore local businesses and places of interest. Save favorite locations for easy access. Discover new areas confidently. Travel smarter and faster wherever you go.",
     "size": 150,
     "reviews": 16000000,
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": "9.3M",
     "ratings": [
       { "name": "1 star", "count": 600000 },
       { "name": "2 star", "count": 850000 },
@@ -162,15 +162,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/nPR5G9H/genshin-impact.png",
+    "image": "https://i.ibb.co/tr0LZBy/genshinimpact.png",
     "title": "Genshin Impact",
     "companyName": "miHoYo Limited",
     "id": 10,
-    "description": "Open-world action RPG with stunning visuals, immersive story, and elemental combat system.",
+    "description": "Genshin Impact is an open-world action RPG with stunning visuals. Explore a fantasy world with elemental combat. Complete quests and unlock new characters. Play solo or join co-op adventures. Discover secrets and treasures across regions. Immerse yourself in a captivating story.",
     "size": 4500,
     "reviews": 9500000,
     "ratingAvg": 4.5,
-    "downloads": 100000000,
+    "downloads": "5.4M",
     "ratings": [
       { "name": "1 star", "count": 300000 },
       { "name": "2 star", "count": 400000 },
@@ -180,15 +180,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/mJZZy1R/telegram.png",
+    "image": "https://i.ibb.co/rGt1CGcB/telegram.jpg",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 11,
-    "description": "Cloud-based messaging app with focus on speed, privacy, and large group communication.",
+    "description": "Telegram is a cloud-based messaging app focused on speed and privacy. Send messages, media, and files securely. Join large groups and channels. Use bots for automation and tools. Enjoy seamless synchronization across devices. Stay connected efficiently and safely.",
     "size": 60,
     "reviews": 15000000,
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": "5.1M",
     "ratings": [
       { "name": "1 star", "count": 700000 },
       { "name": "2 star", "count": 900000 },
@@ -198,15 +198,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/6HYkXHd/asphalt9.png",
+    "image": "https://i.ibb.co/gMd9RbHW/asphalt9.jpg",
     "title": "Asphalt 9: Legends",
     "companyName": "Gameloft SE",
     "id": 12,
-    "description": "Drive legendary cars across spectacular tracks in one of the most popular racing games.",
+    "description": "Asphalt 9: Legends lets you drive legendary cars on stunning tracks. Race against opponents worldwide. Perform stunts and unlock new cars. Customize vehicles and improve performance. Enjoy realistic graphics and exciting gameplay. Compete and climb the leaderboard.",
     "size": 2500,
     "reviews": 8000000,
     "ratingAvg": 4.3,
-    "downloads": 100000000,
+    "downloads": "6.2M",
     "ratings": [
       { "name": "1 star", "count": 300000 },
       { "name": "2 star", "count": 400000 },
@@ -216,15 +216,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/zx4Hp7h/pinterest.png",
+    "image": "https://i.ibb.co/jPxLqzS5/pinterest.jpg",
     "title": "Pinterest",
     "companyName": "Pinterest, Inc.",
     "id": 13,
-    "description": "Discover and save creative ideas, from recipes to home decor and fashion inspiration.",
+    "description": "Pinterest helps you discover and save creative ideas. Find inspiration for home, fashion, and recipes. Organize boards and collections. Explore trending topics and tutorials. Share ideas with friends. Let your creativity flourish daily.",
     "size": 70,
     "reviews": 10000000,
     "ratingAvg": 4.6,
-    "downloads": 1000000000,
+    "downloads": "8.3M",
     "ratings": [
       { "name": "1 star", "count": 300000 },
       { "name": "2 star", "count": 400000 },
@@ -234,15 +234,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/58D1tV3/vscode.png",
+    "image": "https://i.ibb.co/jZ6C781H/vscode.jpg",
     "title": "Visual Studio Code",
     "companyName": "Microsoft Corporation",
     "id": 14,
-    "description": "Lightweight yet powerful source code editor with built-in support for multiple languages.",
+    "description": "VS Code is a lightweight, powerful code editor. Supports multiple languages and frameworks. Customize with extensions and themes. Debug efficiently and navigate code easily. Integrated Git tools streamline version control. Boost coding productivity effortlessly.",
     "size": 250,
     "reviews": 500000,
     "ratingAvg": 4.8,
-    "downloads": 50000000,
+    "downloads": "7.5M",
     "ratings": [
       { "name": "1 star", "count": 10000 },
       { "name": "2 star", "count": 15000 },
@@ -252,15 +252,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/Vt7hrM2/capcut.png",
+    "image": "https://i.ibb.co/Vf8P7ZS/capcut.jpg",
     "title": "CapCut",
     "companyName": "Bytedance Pte. Ltd.",
     "id": 15,
-    "description": "All-in-one video editor with filters, transitions, AI effects, and professional editing tools.",
+    "description": "CapCut is an all-in-one video editor. Add filters, transitions, and AI effects easily. Trim and merge clips for polished results. Enhance videos with music and text overlays. Export high-quality videos effortlessly. Create professional-looking content from your phone.",
     "size": 200,
     "reviews": 25000000,
     "ratingAvg": 4.6,
-    "downloads": 500000000,
+    "downloads": "6M",
     "ratings": [
       { "name": "1 star", "count": 600000 },
       { "name": "2 star", "count": 800000 },
@@ -270,15 +270,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/Nmn8rN1/zoom.png",
+    "image": "https://i.ibb.co/0RCf3j0g/zoom.jpg",
     "title": "Zoom",
     "companyName": "Zoom Video Communications, Inc.",
     "id": 16,
-    "description": "Video conferencing and online meeting platform with HD video and collaboration features.",
+    "description": "Zoom is a video conferencing platform with HD video. Schedule and host meetings with ease. Share screens and collaborate in real time. Record sessions for later reference. Customize virtual backgrounds and settings. Stay connected with teams globally.",
     "size": 110,
     "reviews": 18000000,
     "ratingAvg": 4.2,
-    "downloads": 1000000000,
+    "downloads": "3M",
     "ratings": [
       { "name": "1 star", "count": 900000 },
       { "name": "2 star", "count": 1200000 },
@@ -288,15 +288,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/fYGnvbS/adobe-lightroom.png",
+    "image": "https://i.ibb.co/hJ98MQJx/lightroom.jpg",
     "title": "Adobe Lightroom",
     "companyName": "Adobe Inc.",
     "id": 17,
-    "description": "Photo editing and organization app with advanced color correction, filters, and presets.",
+    "description": "Adobe Lightroom offers advanced photo editing and organization. Adjust colors, exposure, and contrast precisely. Apply filters and presets quickly. Organize images into albums efficiently. Share creations easily on social media. Take control of your photography workflow.",
     "size": 250,
     "reviews": 9000000,
     "ratingAvg": 4.6,
-    "downloads": 100000000,
+    "downloads": "5M",
     "ratings": [
       { "name": "1 star", "count": 200000 },
       { "name": "2 star", "count": 300000 },
@@ -306,15 +306,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/Xs9wz3S/twitter.png",
+    "image": "https://i.ibb.co/Vf8P7ZS/x.jpg",
     "title": "X (Twitter)",
     "companyName": "X Corp.",
     "id": 18,
-    "description": "Join global conversations and share what’s happening in real time through short posts and media.",
+    "description": "X lets you join global conversations in real time. Share updates, news, and media through short posts. Follow trending topics and hashtags. Engage with communities worldwide. Express yourself creatively with text, images, and videos. Stay informed and connected instantly.",
     "size": 80,
     "reviews": 25000000,
     "ratingAvg": 4.1,
-    "downloads": 1000000000,
+    "downloads": "7M",
     "ratings": [
       { "name": "1 star", "count": 1800000 },
       { "name": "2 star", "count": 2100000 },
@@ -324,15 +324,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/WBVf1k6/evernote.png",
+    "image": "https://i.ibb.co.com/xSG0pLMv/evernote.jpg",
     "title": "Evernote",
     "companyName": "Evernote Corporation",
     "id": 19,
-    "description": "Organize notes, tasks, and ideas in one powerful productivity tool synced across devices.",
+    "description": "Evernote organizes notes, tasks, and ideas in one place. Sync across devices seamlessly. Capture ideas, images, and web pages quickly. Collaborate and share notebooks with others. Use tags and search for easy access. Boost personal and team productivity efficiently.",
     "size": 130,
     "reviews": 5000000,
     "ratingAvg": 4.3,
-    "downloads": 100000000,
+    "downloads": "8M",
     "ratings": [
       { "name": "1 star", "count": 150000 },
       { "name": "2 star", "count": 250000 },
@@ -342,15 +342,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/QrZsK6L/pubg.png",
+    "image": "https://i.ibb.co/xqVwJYBF/pubg.jpg",
     "title": "PUBG Mobile",
     "companyName": "Tencent Games",
     "id": 20,
-    "description": "Battle royale game with realistic graphics, intense gameplay, and online multiplayer modes.",
+    "description": "PUBG Mobile is a battle royale game with realistic graphics. Engage in intense multiplayer matches. Explore maps and use strategy to survive. Customize weapons and characters. Team up with friends or play solo. Experience thrilling action and competitive gameplay.",
     "size": 3800,
     "reviews": 75000000,
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": "9.9M",
     "ratings": [
       { "name": "1 star", "count": 2500000 },
       { "name": "2 star", "count": 3000000 },

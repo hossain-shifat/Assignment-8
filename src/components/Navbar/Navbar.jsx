@@ -35,7 +35,7 @@ const Navbar = () => {
             </ul>
         </div>
         <div className="navbar-end">
-            <button className="btn-gradient"><Github/> Contribute</button>
+            <button><a className="btn-gradient" href="https://github.com/hossain-shifat"><Github/> Contribute</a></button>
         </div>
     </div>
   )

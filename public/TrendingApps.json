@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.ibb.co.com/Nd53qC3t/Screenshot-20251008-093812.jpg",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 1,
+    "description": "Reddit is a massive online community where millions of people share news, stories, and ideas every day. Explore thousands of active subreddits on every topic imaginable — from memes and gaming to science and world news. Users can post, comment, and vote to make the best content rise to the top. Whether you’re seeking information or entertainment, Reddit keeps you connected to the global pulse of the internet.",
+    "size": 85,
+    "reviews": 14000000,
+    "ratingAvg": 4.3,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 850000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3400000 },
+      { "name": "5 star", "count": 7900000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gcRP9cQ/Screenshot-20251008-093835.jpg",
+    "title": "Slack",
+    "companyName": "Slack Technologies, LLC",
+    "id": 2,
+    "description": "Slack is a modern collaboration hub that brings teams together. Communicate instantly through organized channels, share files, and integrate tools like Google Drive or GitHub seamlessly. With powerful search, threaded conversations, and video calls, it keeps work efficient and transparent. Whether your team is remote or in-office, Slack makes staying connected simple and productive.",
+    "size": 180,
+    "reviews": 4500000,
+    "ratingAvg": 4.4,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 2580000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLyjrMTJ/Screenshot-20251008-094011.jpg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 3,
+    "description": "Discord is the ultimate communication app for communities, gamers, and creators. Chat via text, voice, or video, and organize discussions in topic-based channels. With low-latency voice servers, screen sharing, and bots for automation, Discord brings groups together like never before. Whether you’re running a gaming clan or a study group, it’s the perfect place to hang out online.",
+    "size": 200,
+    "reviews": 18000000,
+    "ratingAvg": 4.6,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 10600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XxXzKrbf/obs-open-broadcaster-software8550-logowik-com.webp",
+    "title": "OBS Studio",
+    "companyName": "OBS Project",
+    "id": 4,
+    "description": "OBS Studio is a free and open-source app for video recording and live streaming. It offers powerful scene composition, real-time video/audio capture, and mixing. Stream to Twitch, YouTube, or any custom RTMP server with professional quality. With plugins, filters, and studio transitions, OBS gives creators full control over their streaming setup — no watermark, no limits.",
+    "size": 320,
+    "reviews": 1200000,
+    "ratingAvg": 4.7,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 280000 },
+      { "name": "5 star", "count": 830000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/b5DXSkcc/Screenshot-20251008-094229.jpg",
+    "title": "Figma",
+    "companyName": "Figma, Inc.",
+    "id": 5,
+    "description": "Figma is a collaborative design platform built for UI/UX designers. Create wireframes, prototypes, and vector graphics — all in your browser. Teams can edit designs together in real time, comment directly on screens, and version-control every change. With powerful plugins, integrations, and developer handoff tools, Figma redefines how modern teams design and build digital experiences.",
+    "size": 150,
+    "reviews": 3200000,
+    "ratingAvg": 4.8,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 2430000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Dfz3sFz5/Screenshot-20251008-094252.jpg",
+    "title": "Spotify Lite",
+    "companyName": "Spotify AB",
+    "id": 6,
+    "description": "Spotify Lite is a lightweight version of Spotify, built for slower devices and limited data plans. Enjoy your favorite songs and playlists while using less storage and bandwidth. The app loads fast, even in weak network conditions, and provides a simplified interface for easy navigation. With millions of tracks and personalized mixes, music is always at your fingertips.",
+    "size": 15,
+    "reviews": 2500000,
+    "ratingAvg": 4.4,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 550000 },
+      { "name": "5 star", "count": 1540000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XZ99C0NP/Screenshot-20251008-094312.jpg",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 7,
+    "description": "Airbnb lets you book unique stays and experiences around the world. From cozy cabins and city apartments to luxury villas, find places that fit every budget and mood. Discover local adventures, guided tours, and more hosted by real people. With secure payments and 24/7 support, Airbnb helps travelers connect, explore, and feel at home anywhere they go.",
+    "size": 130,
+    "reviews": 14000000,
+    "ratingAvg": 4.5,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 8800000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xqBPg0My/Screenshot-20251008-094328.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 8,
+    "description": "Netflix is the world’s leading streaming service offering thousands of movies, shows, and documentaries. Watch anywhere, anytime, on any device — completely ad-free. Enjoy personalized recommendations and offline downloads for uninterrupted entertainment. Whether it’s a blockbuster film or a trending web series, Netflix delivers endless stories right to your screen.",
+    "size": 210,
+    "reviews": 45000000,
+    "ratingAvg": 4.5,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 2200000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 9500000 },
+      { "name": "5 star", "count": 28800000 }
+    ]
+  }
+]

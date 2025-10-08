@@ -13,11 +13,13 @@ export const router = createBrowserRouter([
         children:[
             {
                 index: true,
+                loader: ()=>fetch('/public/TrendingApps.json'),
                 path:"/",
                 Component: Home
             },
             {
                 path: '/apps',
+                loader: ()=>fetch('/public/AppsData.json'),
                 Component: Apps
             },
             {
