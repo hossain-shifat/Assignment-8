@@ -47,9 +47,6 @@ const Apps = () => {
             ) : (
                 <div className="col-span-full">
                     <AppError setSearch={setSearch}/>
-                    <div className="flex justify-center items-center">
-                        <button onClick={()=>setSearch('')} className="btn-gradient">Go Back!</button>
-                    </div>
                 </div>
             )
         }

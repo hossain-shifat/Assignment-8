@@ -21,8 +21,8 @@ const Installation = () => {
         removeFromLocal(id)
         setLocalApps(localApps => localApps.filter(app => app.id !== id));
         Swal.fire({
-            title: 'Congratulations 🎉',
-            text: 'App Uninstalled!',
+            title: 'Uninstall',
+            text: 'App Uninstalled Successfully',
             icon: 'warning',
             confirmButtonText: "Confirm"
         })
@@ -34,11 +34,11 @@ const Installation = () => {
         let sortList = []
 
         if (type === "High-Low") {
-            sortList = [...localApps].sort((a,b)=>b.size - a.size)
+            sortList = [...localApps].sort((a,b)=>b.downloads - a.downloads)
         }
 
         if (type === "Low-High") {
-            sortList = [...localApps].sort((a,b)=>a.size - b.size)
+            sortList = [...localApps].sort((a,b)=>a.downloads - b.downloads)
         }
         setLocalApps(sortList)
     }
@@ -51,10 +51,10 @@ const Installation = () => {
         </div>
         <div className="max-w-[1200px] mx-auto">
             <div className="flex justify-between mb-5 mx-1 md:mx-0">
-                <h1 className="font-bold text-xl flex justify-center items-center md:text-3xl">({localApps.length}) Apps Found</h1>
+                <h1 className="font-bold text-sm flex justify-center items-center md:text-3xl">({localApps.length}) Apps Found</h1>
                 {/* sorting */}
                 <div className="dropdown dropdown-bottom">
-                    <div tabIndex={0} role="button" className="btn m-1 flex justify-center items-center">Sort By Size : {sort?sort:""} <ChevronDown /></div>
+                    <div tabIndex={0} role="button" className="btn m-1 flex justify-center items-center">Sort By Download : {sort?sort:""} <ChevronDown /></div>
                     <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
                         <li onClick={()=>handleSort("High-Low")}><a>High-Low</a></li>
                         <li onClick={()=>handleSort("Low-High")}><a>Low-High</a></li>

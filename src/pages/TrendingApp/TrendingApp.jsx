@@ -14,7 +14,7 @@ const TrendingApp = ({trendingApp}) => {
                     <h1 className="text-xl font-bold">{trendingApp.title}</h1>
                 </div>
                 <div className="flex justify-between">
-                    <p className="flex gap-2 items-center font-bold text-[#00D390]"><Download strokeWidth={3} size={16}/><span>{trendingApp.downloads}</span></p>
+                    <p className="flex gap-2 items-center font-bold text-[#00D390]"><Download strokeWidth={3} size={16}/><span>{trendingApp.downloads}M</span></p>
                     <p className="flex gap-2 items-center font-bold p-1 bg-[#FFF0E1] px-2 text-[#FF8811] rounded-sm"><Star fill="#FF8811" stroke="#FF8811" strokeWidth={3} size={16}/><span>{trendingApp.ratingAvg}</span></p>
                 </div>
             </div>
