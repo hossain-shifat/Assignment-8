@@ -58,7 +58,7 @@ const AppDetails = () => {
                     </div>
                 </div>
                 <div className="flex justify-center md:justify-start items-center my-5 mt-10">
-                    <button onClick={()=>hanldeLocalStorage(id)} className={`btn btn-prymary border-none outline-none bg-[#00D390] text-white font-bold text-md ${disable?"bg-[#00D390]/60":""}`}>{disable ? "Installed" : `Install Now (${app.size} MB)`}</button>
+                    <button disabled={disable === true} onClick={()=>hanldeLocalStorage(id)} className={`btn btn-prymary border-none outline-none bg-[#00D390] text-white font-bold text-md border ${disable ? "bg-[#00D390]/60": "" }`}>{disable ? "Installed" : `Install Now (${app.size} MB)`}</button>
                 </div>
             </div>
         </div>
