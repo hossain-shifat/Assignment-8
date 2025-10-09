@@ -1,14 +1,20 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useLoaderData, useParams } from 'react-router-dom'
 import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip, Legend, CartesianGrid } from 'recharts';
 import { assets } from '../../assets/assets';
-import { addToLocal } from '../../utility/utility';
+import { addToLocal, storedApp } from '../../utility/utility';
 import Swal from 'sweetalert2'
 
 const AppDetails = () => {
     const {id} = useParams()
     const appData = useLoaderData()
     const app = appData.find(appId => appId.id === parseInt(id))
+
+    const [disable,setDisable] = useState(()=>{
+        const installedApps = storedApp();
+        return installedApps.includes(Number(id))
+    })
+
 
     const hanldeLocalStorage = (id) =>{
         const localApp = addToLocal(id)
@@ -17,16 +23,10 @@ const AppDetails = () => {
                 title: 'Congratulations 🎉',
                 text: 'App Installed Successfully',
                 icon: 'success',
-                confirmButtonText: "OK"
-        })
-        }else{
-            Swal.fire({
-                title: 'Congratulations 🎉',
-                text: "App is already Installed",
-                icon: 'error',
-                confirmButtonText: "OK"
+                confirmButtonText: "Confirm"
         })
         }
+        setDisable(true)
     }
 
   return (
@@ -58,7 +58,7 @@ const AppDetails = () => {
                     </div>
                 </div>
                 <div className="flex justify-center md:justify-start items-center my-5 mt-10">
-                    <button onClick={()=>hanldeLocalStorage(id)} className="btn btn-prymary border-none outline-none bg-[#00D390] text-white font-bold text-md">Install Now ({app.size} MB)</button>
+                    <button onClick={()=>hanldeLocalStorage(id)} className={`btn btn-prymary border-none outline-none bg-[#00D390] text-white font-bold text-md ${disable?"bg-[#00D390]/60":""}`}>{disable ? "Installed" : `Install Now (${app.size} MB)`}</button>
                 </div>
             </div>
         </div>

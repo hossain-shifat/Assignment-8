@@ -22,7 +22,7 @@ const Installation = () => {
             title: 'Congratulations 🎉',
             text: 'App Uninstalled!',
             icon: 'warning',
-            confirmButtonText: "OK"
+            confirmButtonText: "Confirm"
         })
 }
 

@@ -13,7 +13,7 @@ const Navbar = () => {
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"> <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /> </svg>
             </div>
             {/* mobile view */}
-            <ul tabIndex={0} className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 space-y-3 text-[1rem] font-medium shadow">
+            <ul tabIndex={0} className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 space-y-3 text-[1rem] font-bold shadow">
                 <Link to='/' onClick={()=>setMenu("home")} className={menu==="home"?"active":""}><li>Home</li></Link>
                 <Link to='/apps' onClick={()=>setMenu("apps")} className={menu==="apps"?"active":""}><li>Apps</li></Link>
                 <Link to='/installation' onClick={()=>setMenu("installation")} className={menu==="installation"?"active":""}><li>Installation</li></Link>
@@ -28,7 +28,7 @@ const Navbar = () => {
         </div>
         <div className="navbar-center hidden lg:flex">
             {/* large screen view */}
-            <ul className="menu menu-horizontal px-1 gap-10">
+            <ul className="menu menu-horizontal font-bold px-1 gap-10">
                 <Link to='/' onClick={()=>setMenu("home")} className={menu==="home"?"active":""}><li>Home</li></Link>
                 <Link to='/apps' onClick={()=>setMenu("apps")} className={menu==="apps"?"active":""}><li>Apps</li></Link>
                 <Link to='/installation' onClick={()=>setMenu("installation")} className={menu==="installation"?"active":""}><li>Installation</li></Link>

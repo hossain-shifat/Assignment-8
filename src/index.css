@@ -14,7 +14,7 @@
 }
 
 .active{
-    @apply border-b-2
+    @apply border-b-2 text-[#632EE3]
 }
 
 .p{
