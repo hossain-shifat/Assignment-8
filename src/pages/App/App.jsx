@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const App = ({appData}) => {
   return (
     <Link to={`/appDetails/${appData.id}`}>
-        <div className="border border-gray-100 p-4 mx-4 lg:mx-0 shadow-sm rounded-xl cursor-pointer">
+        <div className="border border-gray-100 p-4 mx-4 md:mx-0 shadow-sm rounded-xl cursor-pointer">
             <div>
                 <img src={appData.image} className="w-auto h-[280px] mx-auto rounded-xl object-cover border border-gray-100 shadow-sm" alt="" />
             </div>

@@ -1,12 +1,11 @@
 import { Download, Star } from 'lucide-react'
 import React from 'react'
-import { removeFromLocal } from '../../utility/utility'
 
 const InstalledApps = ({app,handleUninstall}) => {
   return (
     <div className="flex gap-4 justify-between border border-gray-100 shadow-sm mx-2 p-4 rounded-xl">
         <div className="flex gap-3  ">
-            <img src={app.image} className="w-[60px] h-[60px] md:w-[80px] md:h-[80px] border border-gray-100 shadow-sm object-cover rounded-xl" alt="" />
+            <img src={app.image} className="w-[60px] h-[60px] md:w-[80px] md:h-[80px]  border border-gray-100 shadow-sm object-cover rounded-xl" alt="" />
             <div className="space-y-1">
                 <div className="font-bold">
                     <h1>{app.title}</h1>

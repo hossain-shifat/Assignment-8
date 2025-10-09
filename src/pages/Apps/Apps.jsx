@@ -39,7 +39,7 @@ const Apps = () => {
         </div>
         {
             searchedApp.length > 0 ? (
-                <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 max-w-[1200px] mx-auto mt-2">
+                <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 md:gap-3 md:max-w-[950px] lg:max-w-[1200px] mx-auto mt-2">
                     {
                         searchedApp.map(appData => <App key={appData.id} appData={appData}/>)
                     }
