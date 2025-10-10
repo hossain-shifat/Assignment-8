@@ -22,7 +22,7 @@ const Navbar = () => {
             <Link to="/">
                 <div className="flex gap-2 justify-center items-center font-bold cursor-pointer">
                     <img className="w-[30px] h-[30px]" src={assets.logo} alt="" />
-                    <h1 className="text-gradient">HERO.IO</h1>
+                    <h1 className="text-gradient">AppDeck</h1>
                 </div>
             </Link>
         </div>
