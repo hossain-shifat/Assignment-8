@@ -16,23 +16,22 @@ export const router = createBrowserRouter([
         children:[
             {
                 index: true,
-                loader: ()=>fetch('/public/AppsData.json').then(res=>res.json()),
-                path:"/",
+                loader: ()=>fetch('/AppsData.json').then(res=>res.json()),
                 Component: Home
             },
             {
                 path: '/apps',
-                loader: ()=>fetch('/public/AppsData.json').then(res=>res.json()),
+                loader: ()=>fetch('/AppsData.json').then(res=>res.json()),
                 Component: Apps
             },
             {
                 path:'/installation',
-                loader: ()=>fetch('/public/AppsData.json'),
+                loader: ()=>fetch('/AppsData.json'),
                 Component: Installation
             },
             {
                 path: '/appDetails/:id',
-                loader: ()=>fetch('/public/AppsData.json'),
+                loader: ()=>fetch('/AppsData.json'),
                 errorElement:<AppError/>,
                 Component: AppDetails
             }
