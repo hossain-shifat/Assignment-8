@@ -9,13 +9,9 @@ const Banner = () => {
             <p class="p max-w-[350px] mx-auto md:max-w-full">At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.<br/>Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
         </div>
         <div className="flex justify-center items-center gap-5 font-bold">
-            <div className="flex gap-2 border border-gray-300 p-2 rounded-sm cursor-pointer">
-                <img className="w-[25px] h-[25px]" src={assets.playStore} alt="" />
-                <a href="https://play.google.com/store/apps?hl=en">Playstore</a>
-            </div>
-            <div className="flex gap-2 border border-gray-300 p-2 rounded-sm cursor-pointer">
-                <img className="w-[25px] h-[25px]" src={assets.appStore} alt="" />
-                <a href="https://www.apple.com/app-store/">Appstore</a>
+            <div className="flex gap-4">
+                <button className="flex gap-2 border border-gray-300 p-2 rounded-sm cursor-pointer"><img className="w-[25px] h-[25px]" src={assets.playStore} alt="" /> <a href="https://play.google.com/store/apps?hl=en">Playstore</a></button>
+                <button className="flex gap-2 border border-gray-300 p-2 rounded-sm cursor-pointer"><img className="w-[25px] h-[25px]" src={assets.appStore} alt="" /> <a href="https://www.apple.com/app-store/">Appstore</a></button>
             </div>
         </div>
         <div>
